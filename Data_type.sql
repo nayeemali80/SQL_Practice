@@ -55,3 +55,5 @@ select timestamp_col, timestamp_col::varchar(10) from date_types dt ;
 
 
 
+
+

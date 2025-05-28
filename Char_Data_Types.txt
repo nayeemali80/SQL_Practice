@@ -1,3 +1,0 @@
-character_varying_type|character_type|text_type
-abc|abc       |abc
-abcghi|abcghi    |abcghi
